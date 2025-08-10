@@ -132,7 +132,7 @@
 | jsonnet | ✓ |  |  |  |  | `jsonnet-language-server` |
 | jsx | ✓ | ✓ | ✓ | ✓ | ✓ | `typescript-language-server` |
 | julia | ✓ | ✓ | ✓ |  |  | `julia` |
-| just | ✓ | ✓ | ✓ |  |  | `just-lsp` |
+| just | ✓ | ✓ | ✓ | ✓ |  | `just-lsp` |
 | kdl | ✓ | ✓ | ✓ |  |  |  |
 | koka | ✓ |  | ✓ |  |  | `koka` |
 | kotlin | ✓ | ✓ | ✓ |  |  | `kotlin-language-server` |
@@ -185,6 +185,7 @@
 | pest | ✓ | ✓ | ✓ |  |  | `pest-language-server` |
 | php | ✓ | ✓ | ✓ | ✓ |  | `intelephense` |
 | php-only | ✓ |  |  | ✓ |  |  |
+| pip-requirements | ✓ |  |  |  |  |  |
 | pkgbuild | ✓ | ✓ | ✓ |  |  | `termux-language-server`, `bash-language-server` |
 | pkl | ✓ |  | ✓ |  |  | `pkl-lsp` |
 | po | ✓ | ✓ |  |  |  |  |
@@ -237,7 +238,7 @@
 | supercollider | ✓ |  |  |  |  |  |
 | svelte | ✓ |  | ✓ |  |  | `svelteserver` |
 | sway | ✓ | ✓ | ✓ |  |  | `forc` |
-| swift | ✓ | ✓ |  |  |  | `sourcekit-lsp` |
+| swift | ✓ | ✓ |  |  | ✓ | `sourcekit-lsp` |
 | systemd | ✓ |  |  |  |  | `systemd-lsp` |
 | t32 | ✓ |  |  |  |  |  |
 | tablegen | ✓ | ✓ | ✓ |  |  |  |
