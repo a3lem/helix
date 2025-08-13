@@ -41,3 +41,8 @@
   ]
   ( #match? @_comment "^#\\slang(uage)?\\s=[^\\n]+")
 )
+
+
+(
+  (string_content) @injection.content @injection.shebang
+)
